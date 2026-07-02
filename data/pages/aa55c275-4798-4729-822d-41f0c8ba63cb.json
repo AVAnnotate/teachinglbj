@@ -20,7 +20,8 @@
       "uuid": "38090e78-6cb6-48ea-b334-8c8e23918d15",
       "includes": [
         "media",
-        "annotations"
+        "annotations",
+        "label"
       ],
       "start": 1,
       "end": 40,
@@ -52,7 +53,8 @@
       "uuid": "a4a57023-694c-4937-a1be-fd0eac6d4214",
       "includes": [
         "media",
-        "annotations"
+        "annotations",
+        "label"
       ],
       "start": 10,
       "end": 40,
@@ -84,7 +86,8 @@
       "uuid": "a24b1376-af8d-4416-af12-3fab461e0078",
       "includes": [
         "media",
-        "annotations"
+        "annotations",
+        "label"
       ],
       "start": 0,
       "end": 25,
@@ -113,6 +116,6 @@
   "slug": "testing-lesson-plan",
   "created_at": "2026-07-02T21:48:04.851Z",
   "created_by": "tanyaclement",
-  "updated_at": "2026-07-02T21:59:57.574Z",
+  "updated_at": "2026-07-02T22:01:24.645Z",
   "updated_by": "tanyaclement"
 }
